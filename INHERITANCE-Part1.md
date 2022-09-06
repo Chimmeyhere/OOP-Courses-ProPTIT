@@ -117,7 +117,7 @@ class <Tên lớp dẫn xuất>: <Từ khóa dẫn xuất> <Tên lớp cơ sở>
 
 <br>
 
-**Cú pháp khai báo tính đơn kế thừa:**
+**Cú pháp khai báo tính đa kế thừa:**
 
 ```cpp
 class <Tên lớp dẫn xuất>: <Từ khoá dẫn xuất> <Tên lớp cơ sở 1>, <Từ khoá dẫn xuất> <Tên lớp cơ sở 2>, <Từ khoá dẫn xuất> <Tên lớp cơ sở n> { 
