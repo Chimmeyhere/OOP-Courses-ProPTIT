@@ -169,6 +169,34 @@ class <Tên lớp> {
 
   + Nó có thể được khai báo trong phần private hoặc public.
 
+- VD:
+- 
+```cpp
+#include <iostream>
+ 
+using namespace std;
+ 
+class Box {
+private:
+    int length;
+ 
+public:
+    Box() : length(0) {}
+    friend int printLength(Box); //ham friend
+};
+ 
+int printLength(Box b) {
+    b.length += 10;
+    return b.length;
+}
+ 
+int main() {
+    Box b;
+    cout << "Chieu dai cua box: " << printLength(b) << endl;
+    return 0;
+}
+```
+
 <br>
 
 ### 4. ***Function & Operator - Overloading (Nạp chồng hàm và nạp chồng toán tử)***
