@@ -25,7 +25,9 @@
 
 - Áp dụng tính kế thừa vào ba class trên ta sẽ tạo ra một Class Laptop có các Attribute và Method: Width, Height và upRam() với các Class con là: Class Asus, Class Dell, Class Lenovo sẽ kế thừa từ Class Laptop
 
-![](https://i.ibb.co/TPRcMSK/oie-YCh-EV8lyj-B0s.jpg)
+![](https://i.ibb.co/KqsrCXC/oie-YCh-EV8lyj-B0s.jpg)
+
+<br>
 
 #### **Tính chất dẫn xuất:**
 
