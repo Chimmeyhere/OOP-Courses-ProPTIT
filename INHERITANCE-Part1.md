@@ -27,8 +27,6 @@
 
 ![](https://i.ibb.co/TPRcMSK/oie-YCh-EV8lyj-B0s.jpg)
 
-<br>
-
 #### **Tính chất dẫn xuất:**
 
 - Các Access Modifiers sau khi được kế thừa ở Class con sẽ như sau:
