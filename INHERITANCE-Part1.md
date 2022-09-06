@@ -217,7 +217,7 @@ int main() {
 
 <br>
 
-#### a. ***Function Overloading - Nạp chống hàm***
+#### a. ***Function Overloading - Nạp chồng hàm***
 
 - Bạn có thể có nhiều định nghĩa cho cùng tên hàm trong cùng phạm vi. Định nghĩa của hàm phải khác lẫn nhau về kiểu và/hoặc số tham số trong danh sách tham số.
 
