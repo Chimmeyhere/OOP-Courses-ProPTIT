@@ -14,8 +14,6 @@
 
 - Khái niệm:
     + Đa hình (Polymorphism) có thể đơn giản hiểu là: hiện tượng mà các đối tượng thuộc các class khác nhau có thể biểu diễn cùng một thông điệp theo các cách khác nhau.
- 
- <br>
 
 - Polymorphism là một từ Hy Lạp, có nghĩa là *many-shaped* hay là *nhiều hình dạng* và nó có hai khía cạnh đặc biệt:
 
