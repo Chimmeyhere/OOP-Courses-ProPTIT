@@ -12,16 +12,16 @@
 
 - Đa hình là một trong bốn tính chất đặc trưng của lập trình hướng đối tượng bên cạnh `tính đóng gói`, `tính trừu tượng` và `tính kế thừa`. Và thường được nhắc như là trụ cột thứ ba của OOP.
 
+- Khái niệm:
+    + Đa hình (Polymorphism) có thể đơn giản hiểu là: hiện tượng mà các đối tượng thuộc các class khác nhau có thể biểu diễn cùng một thông điệp theo các cách khác nhau.
+ 
+ <br>
+
 - Polymorphism là một từ Hy Lạp, có nghĩa là *many-shaped* hay là *nhiều hình dạng* và nó có hai khía cạnh đặc biệt:
 
     + Tại thời điểm chạy, các đối tượng của lớp dẫn xuất có thể được coi là đối tượng của lớp cơ sở ở những nơi như tham số phương thức và mảng. Khi sự đa hình này xảy ra, kiểu dữ liệu của đối tượng được khai báo không còn giống với kiểu dữ liệu trong run-time của nó nữa.
 
     + Các lớp cơ sở có thể định nghĩa và triển khai các phương thức ảo, và các lớp dẫn xuất có thể ghi đè chúng, có nghĩa là chúng cung cấp định nghĩa và triển khai riêng. Tại thời điểm chạy, khi mã máy khách gọi phương thức, CLR sẽ tra cứu kiểu thời gian chạy của đối tượng và gọi ghi đè phương thức ảo đó. Trong mã nguồn của bạn, bạn có thể gọi một phương thức trên một lớp cơ sở và làm cho phiên bản phương thức của lớp dẫn xuất được thực thi.
-
-<br>
-
-- Khái niệm:
-    + Đa hình (Polymorphism) có thể đơn giản hiểu là: hiện tượng mà các đối tượng thuộc các class khác nhau có thể biểu diễn cùng một thông điệp theo các cách khác nhau.
 
 <br>
 
